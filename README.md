@@ -1,6 +1,6 @@
 # Biometrics Project - Multimodal Authentication Analysis
 
-This repository contains the code and report for the "Analysis of Multimodal Biometric Authentication using different Deep Learning algorithms for Finger Vein and Iris recognition" project as part of CIS 600 - Biometrics.
+This repository contains the code for the "Analysis of Multimodal Biometric Authentication using different Deep Learning algorithms for Finger Vein and Iris recognition".
 
 ## Project Overview
 
